@@ -2,5 +2,7 @@
 
 `git clone https://gitlab.stud.idi.ntnu.no/juliemey/kittycat`  
 </br>
-`git clone https://gitlab.stud.idi.ntnu.no/juliemey/kittycat`  
+`cd kittycat`  
+</br>
+`yarn install`  
 </br>
