@@ -6,3 +6,5 @@
 </br>
 `yarn install`  
 </br>
+`expo start`  
+</br>
